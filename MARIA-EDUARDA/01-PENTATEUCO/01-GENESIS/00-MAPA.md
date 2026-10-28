@@ -12,3 +12,11 @@
 1. Registre apenas o que deseja guardar.
 2. Use uma nota principal para cada assunto e conecte assuntos relacionados com links.
 3. Atualize com o tempo; não é necessário preencher tudo de uma vez.
+
+## Navegação do núcleo DUDA
+
+- **Owner:** `MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/`
+- **Gatilho:** `#GENESIS`
+- **Mestre:** [#DUDA](../../00-SISTEMA/01-DUDA-PROTOCOLO.md)
+- **Mapa principal:** [Mapa da Mente](../../00-SISTEMA/00-MAPA-DA-MENTE.md)
+- [Registro de gatilhos](../../00-SISTEMA/02-GATILHOS.md)

@@ -1,83 +1,57 @@
-# Biblioteca Digital de Maria Eduarda — Minha Jornada
+# 🌱 Biblioteca Digital de Maria Eduarda
 
-Esta biblioteca é um espaço para organizar estudos, aprendizados, ideias, projetos e reflexões pessoais. Ela deve crescer no ritmo de Maria Eduarda e facilitar a consulta, não criar tarefas desnecessárias.
+Esta biblioteca reúne estudos, aprendizados, ideias e registros pessoais. A árvore semântica organiza o conhecimento por significado. O GitHub é a fonte externa de verdade quando o repositório está acessível.
 
-> **Privacidade importante:** este repositório está público. Qualquer pessoa pode visualizar os arquivos. Não registre senhas, documentos, endereços, dados de pacientes, informações íntimas ou outros dados pessoais sensíveis. Não alterei a visibilidade do repositório.
+## Começar
 
-## Comece por aqui
+Use `#DUDA` como gatilho mestre na conversa com o ChatGPT quando o conector do GitHub estiver disponível. O assistente consulta o núcleo existente, entende a intenção e procura o owner correto antes de sugerir ou executar mudanças.
 
-| Arquivo | Para que serve |
-|---|---|
-| [Mapa da Mente](MARIA-EDUARDA/00-MAPA-DA-MENTE.md) | Mapa principal da arquitetura bíblica, com os grupos e a estrutura planejada. |
-| [Mapa pessoal de Gênesis](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/00-MAPA.md) | Índice do primeiro núcleo pessoal ativo. |
-| [Minha identidade](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md) | Espaço opcional para registrar interesses, valores e descobertas sobre si mesma. |
-| [Minha história](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md) | Espaço opcional para lembranças e aprendizados escolhidos por Maria Eduarda. |
-| [Minha fé e meus princípios](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md) | Reflexões pessoais e temas para estudar. |
-| [Meus sonhos — Terapia Ocupacional](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md) | Espaço de exploração de um interesse atual, sem tratá-lo como decisão permanente. |
+- [Mapa da Mente](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md)
+- [Protocolo mestre #DUDA](MARIA-EDUARDA/00-SISTEMA/01-DUDA-PROTOCOLO.md)
+- [Registro de gatilhos](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md)
+- [Estado atual e próximo passo](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md)
 
-## Como a organização funciona
+## Gatilhos principais
 
-A Bíblia protestante tem 66 livros. Nesta biblioteca, eles inspiram nove grupos de navegação, de Gênesis a Apocalipse. Os grupos ajudam a encontrar assuntos; eles **não são livros bíblicos adicionais**.
+| Gatilho | Uso | Entrada |
+|---|---|---|
+| `#DUDA` | Recupera o núcleo e coordena os outros comandos | [Protocolo mestre](MARIA-EDUARDA/00-SISTEMA/01-DUDA-PROTOCOLO.md) |
+| `#ACORDAR` | Recupera a continuidade | [Estado atual](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md) |
+| `#GENESIS` | Navega o começo da jornada | [Mapa de Gênesis](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/00-MAPA.md) |
+| `#IDENTIDADE` | Consulta a nota de identidade | [Quem sou eu](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md) |
+| `#HISTORIA` | Consulta a nota de história | [Como tudo começou](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md) |
+| `#FE` | Consulta fé e princípios | [Meus princípios](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md) |
+| `#SONHOS` / `#TO` | Objetivos e Terapia Ocupacional | [Sonhos e TO](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md) |
+| `#SALVAR` | Guarda conhecimento no owner correto | [Mapa](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md) |
+| `#KAIZEN` | Registra aprendizado e pequeno avanço | [Kaizen](MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md) |
+| `#MAPEAR` / `#BUSCAR` / `#BIBLIA` | Localiza conteúdo e arquitetura | [Mapa da Mente](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md) |
+| `#CONECTAR` / `#REVISAR` | Relaciona ou revisa notas existentes | [Registro de gatilhos](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md) |
+| `#PROXIMO` | Retorna um próximo passo concreto | [Estado atual](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md) |
 
-A árvore completa planejada está no [Mapa da Mente](MARIA-EDUARDA/00-MAPA-DA-MENTE.md). Nem todas as pastas previstas existem ainda. Crie uma pasta ou nota apenas quando houver conteúdo real para guardar. Assim, a biblioteca permanece simples e útil.
+A lista detalhada, com aliases, owners e modos de uso, está em [02-GATILHOS.md](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md).
 
-**Estudo bíblico e memória pessoal são coisas distintas.** Uma nota pode resumir o que o texto bíblico diz; outra pode registrar o que Maria Eduarda pensa, pergunta ou relaciona à própria vida. Associações pessoais não devem ser apresentadas como fatos bíblicos.
+## Núcleo pessoal ativo — Gênesis
 
-## Como registrar um novo aprendizado
+- [Mapa de Gênesis](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/00-MAPA.md)
+- [Minha identidade](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md)
+- [Minha história](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md)
+- [Minha fé e meus princípios](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md)
+- [Meus sonhos — Terapia Ocupacional](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md)
 
-1. **Escolha o endereço certo.** Procure o mapa e as notas existentes antes de criar outra página.
-2. **Reutilize antes de criar.** Se o assunto já tem uma nota principal, acrescente a informação nela. Evite cópias do mesmo conteúdo.
-3. **Dê um nome claro.** O nome deve dizer o que a página contém. Os números identificam endereços estáveis; não os troque só por estética.
-4. **Escreva com suas palavras.** Registre a fonte ou a passagem bíblica quando isso ajudar a encontrar a informação novamente.
-5. **Conecte assuntos relacionados.** Use links Markdown relativos. Por exemplo, dentro da nota de sonhos, um link para a identidade pode ser `[Minha identidade](../01-MINHA-IDENTIDADE/Quem-sou-eu.md)`.
-6. **Confira os links.** Abra-os no GitHub depois de salvar para confirmar que apontam para o arquivo certo.
+## Arquitetura bíblica
 
-## Como criar pastas e notas
+A biblioteca planeja a navegação pelos 66 livros da Bíblia protestante, na ordem de Gênesis a Apocalipse. Os nove grupos são categorias de navegação, não novos livros bíblicos. O mapa documenta a árvore planejada; novos núcleos só devem ser materializados quando houver conteúdo real.
 
-No GitHub, use **Add file → Create new file** e escreva o caminho completo no campo do nome do arquivo. Por exemplo, quando houver conteúdo real sobre Êxodo, poderá ser criada uma nota como `MARIA-EDUARDA/01-PENTATEUCO/02-EXODO/00-MAPA.md`.
+Consulte a [Lei da Árvore Semântica](MARIA-EDUARDA/00-SISTEMA/03-LEI-DA-ARVORE.md) para os endereços estáveis, nomes semânticos, limite de pastas diretas e regra de reutilização.
 
-- Use `00` para um mapa ou índice quando ele for útil.
-- Use números de `01` a `09` para organizar os itens seguintes em cada nível.
-- Cada pasta deve ter uma função clara. Se houver muitos itens, crie subdivisões por significado, não apenas para satisfazer uma contagem.
-- O caminho de uma nota é seu endereço estável. Antes de mover ou renumerar arquivos, confirme a mudança e atualize os links que dependem deles.
-- Não crie pastas vazias para completar a árvore. O GitHub registra pastas por meio de arquivos.
+## Kaizen e Modo Clareza
 
-## Conexões e memória
+- [Kaizen](MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md): pequenas melhorias baseadas em aprendizado real.
+- [Modo Clareza — 80%](MARIA-EDUARDA/00-SISTEMA/04-MODO-CLAREZA.md): português brasileiro, frases curtas, sequência lógica e precisão técnica.
+- [Personalizar o ChatGPT](MARIA-EDUARDA/00-SISTEMA/06-PERSONALIZAR-CHATGPT.md): instruções curtas para copiar, se desejado.
 
-Use links relativos para conectar notas que tenham uma relação real. Mantenha um único lugar principal para cada assunto e faça referências entre páginas. Isso facilita atualizar a informação sem deixar versões diferentes espalhadas.
+## Continuidade
 
-Se Maria Eduarda passar a usar o Obsidian no futuro, poderá acrescentar wikilinks, tags e propriedades. Isso é opcional; os links Markdown atuais já funcionam no GitHub.
+O checkpoint fica em [07-ESTADO-ATUAL.md](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md). Cada conversa é um delta, não um recomeço. Consulte o estado pertinente, reutilize o conhecimento existente e atualize o checkpoint quando houver mudança relevante.
 
-## Kaizen — pequenas melhorias contínuas
-
-Kaizen é uma ideia de melhoria contínua por meio de passos pequenos. Na biblioteca, isso pode significar corrigir um link, melhorar um título, registrar uma fonte ou acrescentar uma observação útil por vez. Não é preciso reorganizar tudo de uma vez. Faça mudanças simples, confira o resultado e mantenha o que realmente ajuda.
-
-## Padrão de Comunicação — Modo Clareza
-
-Use estas orientações de estilo nas respostas e explicações do ChatGPT, com intensidade aproximada de **80%**. Elas são uma orientação prática inspirada na comunicação controlada, não uma certificação oficial ASD-STE100.
-
-1. Responda em português brasileiro.
-2. Use frases curtas e diretas.
-3. Prefira palavras simples.
-4. Explique termos técnicos.
-5. Apresente uma ideia principal por frase.
-6. Evite repetições.
-7. Mantenha nomes e conceitos consistentes.
-8. Organize os passos em ordem lógica.
-9. Use exemplos quando ajudarem.
-10. Preserve a precisão técnica.
-
-**Regra principal: resultado primeiro, explicação necessária depois.** Clareza não deve retirar informações importantes nem reduzir a precisão.
-
-## Privacidade, segurança e decisões
-
-- Registre somente o que Maria Eduarda decidir compartilhar.
-- Não inclua senhas, documentos pessoais, dados de pacientes, informações íntimas ou dados sensíveis.
-- Como o repositório está público, considere que qualquer texto salvo poderá ser lido por outras pessoas.
-- Antes de tornar o repositório privado/público, mover arquivos, apagar conteúdo, alterar endereços estáveis ou reestruturar partes importantes, explique a proposta e peça confirmação.
-- Preserve os textos de Maria Eduarda. Não complete lacunas com biografias, crenças ou experiências inventadas.
-- Não transforme interesses atuais em decisões permanentes.
-
-## Regra de crescimento
-
-A biblioteca pertence a Maria Eduarda. A estrutura deve apoiar seu estudo, sua memória e sua autonomia. Ela pode mudar com o tempo. A prioridade é manter uma organização clara, segura e útil — não preencher todas as pastas previstas.
+**Regra central:** uma intenção, um owner principal, relações por links, menor delta necessário. Maria Eduarda decide; o assistente organiza e conecta.

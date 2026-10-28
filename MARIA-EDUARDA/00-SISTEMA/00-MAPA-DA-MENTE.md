@@ -13,15 +13,44 @@ Esta biblioteca organiza conhecimento, estudos, experiências e planos usando um
 - **Profundidade sem limite fixo:** crie níveis adicionais somente quando ajudarem a entender e localizar o conteúdo.
 - **Autoria pessoal:** Maria Eduarda decide o que registrar e quais relações fazem sentido para ela.
 
+## Sistema e comandos
+
+O sistema operacional fica nesta pasta. Consulte as regras canônicas em vez de manter cópias paralelas.
+
+- [Protocolo mestre #DUDA](01-DUDA-PROTOCOLO.md)
+- [Registro de gatilhos](02-GATILHOS.md)
+- [Lei da Árvore Semântica](03-LEI-DA-ARVORE.md)
+- [Modo Clareza](04-MODO-CLAREZA.md)
+- [Kaizen](05-KAIZEN.md)
+- [Instruções curtas para Personalizar o ChatGPT](06-PERSONALIZAR-CHATGPT.md)
+- [Estado atual e próximo passo](07-ESTADO-ATUAL.md)
+
 ## Os nove grupos bíblicos
 
 A árvore abaixo representa o **plano de navegação dos 66 livros da Bíblia protestante**, na ordem de Gênesis a Apocalipse. Os nove grupos são categorias de navegação, não livros adicionais. Os caminhos que ainda não contêm notas são apenas planejamento: não crie todas as pastas de uma vez.
 
 ```text
 MARIA-EDUARDA/
-├── 00-MAPA-DA-MENTE.md
+├── 00-SISTEMA/
+│   ├── 00-MAPA-DA-MENTE.md
+│   ├── 01-DUDA-PROTOCOLO.md
+│   ├── 02-GATILHOS.md
+│   ├── 03-LEI-DA-ARVORE.md
+│   ├── 04-MODO-CLAREZA.md
+│   ├── 05-KAIZEN.md
+│   ├── 06-PERSONALIZAR-CHATGPT.md
+│   └── 07-ESTADO-ATUAL.md
 ├── 01-PENTATEUCO/
 │   ├── 01-GENESIS/
+│   │   ├── 00-MAPA.md
+│   │   ├── 01-MINHA-IDENTIDADE/
+│   │   │   └── Quem-sou-eu.md
+│   │   ├── 02-MINHA-HISTORIA/
+│   │   │   └── Como-tudo-comecou.md
+│   │   ├── 03-MINHA-FE/
+│   │   │   └── Meus-principios.md
+│   │   └── 04-MEUS-SONHOS/
+│   │       └── Terapia-Ocupacional.md
 │   ├── 02-EXODO/
 │   ├── 03-LEVITICO/
 │   ├── 04-NUMEROS/
@@ -127,11 +156,11 @@ Estas são apenas possibilidades de organização. Maria Eduarda decide quais re
 
 Este é o primeiro núcleo ativo da biblioteca. Os demais caminhos do plano serão criados quando houver conteúdo real.
 
-- [Gênesis — mapa pessoal](01-PENTATEUCO/01-GENESIS/00-MAPA.md)
-- [Minha identidade](01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md)
-- [Minha história](01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md)
-- [Minha fé e meus princípios](01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md)
-- [Meus sonhos — Terapia Ocupacional](01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md)
+- [Gênesis — mapa pessoal](../01-PENTATEUCO/01-GENESIS/00-MAPA.md)
+- [Minha identidade](../01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md)
+- [Minha história](../01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md)
+- [Minha fé e meus princípios](../01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md)
+- [Meus sonhos — Terapia Ocupacional](../01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md)
 
 ## Como continuar
 
