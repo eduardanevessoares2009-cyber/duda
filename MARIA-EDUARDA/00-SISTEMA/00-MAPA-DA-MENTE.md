@@ -22,6 +22,7 @@ O sistema operacional fica nesta pasta. Consulte as regras canônicas em vez de 
 - [Lei da Árvore Semântica](03-LEI-DA-ARVORE.md)
 - [Modo Clareza](04-MODO-CLAREZA.md)
 - [Kaizen](05-KAIZEN.md)
+- [Michelin 3 Estrelas](08-MICHELIN-3-ESTRELAS.md)
 - [Instruções curtas para Personalizar o ChatGPT](06-PERSONALIZAR-CHATGPT.md)
 - [Estado atual e próximo passo](07-ESTADO-ATUAL.md)
 

@@ -36,6 +36,7 @@ Use `#DUDA` como gatilho mestre na conversa com o ChatGPT quando o conector do G
 | `#SONHOS` / `#TO` | Objetivos e Terapia Ocupacional | [Sonhos e TO](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md) |
 | `#SALVAR` | Guarda conhecimento no owner correto | [Mapa](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md) |
 | `#KAIZEN` | Registra aprendizado e pequeno avanço | [Kaizen](MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md) |
+| `#MICHELIN` / `!michelin` | Constrói, integra e prova resultados | [Michelin 3 Estrelas](MARIA-EDUARDA/00-SISTEMA/08-MICHELIN-3-ESTRELAS.md) |
 | `#MAPEAR` / `#BUSCAR` / `#BIBLIA` | Localiza conteúdo e arquitetura | [Mapa da Mente](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md) |
 | `#CONECTAR` / `#REVISAR` | Relaciona ou revisa notas existentes | [Registro de gatilhos](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md) |
 | `#PROXIMO` | Retorna um próximo passo concreto | [Estado atual](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md) |

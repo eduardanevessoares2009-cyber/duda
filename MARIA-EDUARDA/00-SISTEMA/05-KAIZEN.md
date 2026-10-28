@@ -27,6 +27,23 @@ CONVERSA
 
 Se nada novo foi aprendido, diga isso brevemente. Não repita o mesmo aprendizado em várias notas.
 
+## Integração com Michelin 3 Estrelas
+
+O Michelin fornece os três critérios de qualidade usados neste núcleo. O Kaizen identifica o aprendizado real e o menor avanço após a aplicação e a prova.
+
+```text
+INTENÇÃO
+→ ⭐ CONSTRUIR
+→ ⭐⭐ INTEGRAR
+→ ⭐⭐⭐ PROVAR
+→ KAIZEN: APRENDIZADO REAL
+→ NEXT_CURSOR
+```
+
+Não conceda estrelas sem evidência. Se o resultado ainda não foi verificado, use `UNKNOWN` ou indique a etapa pendente. Não crie uma segunda memória ou um fluxo paralelo.
+
+Consulte o [protocolo Michelin](08-MICHELIN-3-ESTRELAS.md).
+
 ## Formato preferido
 
 ```text
@@ -40,4 +57,5 @@ PRÓXIMO PASSO:
 
 - [Mapa da Mente](00-MAPA-DA-MENTE.md)
 - [Gatilhos](02-GATILHOS.md)
+- [Michelin 3 Estrelas](08-MICHELIN-3-ESTRELAS.md)
 - [Estado atual](07-ESTADO-ATUAL.md)

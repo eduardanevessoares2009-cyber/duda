@@ -15,6 +15,7 @@ Os gatilhos não diferenciam maiúsculas de minúsculas. Use-os como comandos de
 | `#TO` | Terapia Ocupacional | [Nota de Terapia Ocupacional](../01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md) |
 | `#SALVAR` | Persistir conhecimento pedido | [Mapa da Mente](00-MAPA-DA-MENTE.md) para localizar o owner |
 | `#KAIZEN` | Aprendizado e melhoria pequena | [Protocolo Kaizen](05-KAIZEN.md) |
+| `#MICHELIN` | Avaliar qualidade em três etapas | [Michelin 3 Estrelas](08-MICHELIN-3-ESTRELAS.md) |
 | `#MAPEAR` | Encontrar owner semântico | [Mapa da Mente](00-MAPA-DA-MENTE.md) |
 | `#CONECTAR` | Ligar notas relacionadas | [Mapa da Mente](00-MAPA-DA-MENTE.md) e notas envolvidas |
 | `#REVISAR` | Revisar nota ou núcleo | Nota solicitada e [Lei da Árvore](03-LEI-DA-ARVORE.md) |
@@ -98,6 +99,15 @@ Cada gatilho registra: aliases, owner, entrada, relações e modo. Os caminhos s
 - **Entrada:** procurar a nota canônica antes de criar.
 - **Relacionados:** `#MAPEAR`, `#CONECTAR`, `#KAIZEN`.
 - **Modo:** `WRITE` quando a solicitação pedir persistência. Sintetizar conhecimento útil; não copiar a conversa inteira por padrão.
+
+### `#MICHELIN`
+- **Aliases:** `#michelin`, `#MICHELIN`, `#Michelin`, `!michelin`, `!MICHELIN`, `!Michelin` e outras capitalizações.
+- **Owner:** [08-MICHELIN-3-ESTRELAS.md](08-MICHELIN-3-ESTRELAS.md).
+- **Entrada:** protocolo Michelin; reutiliza o mapa, os owners e o checkpoint existentes.
+- **Relacionados:** todos os gatilhos especializados, especialmente `#DUDA`, `#ACORDAR`, `#CALIBRAR`, `#SALVAR`, `#KAIZEN` e `#PROXIMO`.
+- **Modo:** `READ` para avaliar; `READ_WRITE` quando a intenção pedir integração, registro ou correção.
+- **Critério:** ⭐ CONSTRUIR, ⭐⭐ INTEGRAR, ⭐⭐⭐ PROVAR. Estrelas conquistadas dependem de evidência; não atribuir percentual, XP ou progresso inventado.
+- **Exibição:** usar o HUD apenas quando o método for solicitado, em `#CALIBRAR` ou quando houver pedido de avaliação de progresso.
 
 ### `#KAIZEN`
 - **Aliases:** `#kaizen`, `#Kaizen`.

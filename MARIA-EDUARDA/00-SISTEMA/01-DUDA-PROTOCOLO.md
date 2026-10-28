@@ -67,6 +67,31 @@ UNKNOWN = NÃO VERIFICADO
 
 `UNKNOWN` não significa sucesso. Uma especificação documentada não comprova que um comando funciona em uma nova conversa. O comportamento real precisa de teste separado.
 
+## Michelin como padrão de qualidade
+
+Aplique o método [Michelin 3 Estrelas](08-MICHELIN-3-ESTRELAS.md) como disciplina de qualidade em todos os gatilhos, sem executar etapas desnecessárias em toda mensagem.
+
+```text
+INTENT_FIRST=true
+REUSE_BEFORE_CREATE=true
+ONE_CANONICAL_OWNER=true
+MINIMUM_DELTA=true
+EVIDENCE_BEFORE_VERDICT=true
+UNKNOWN_IS_NOT_PASS=true
+```
+
+Depois de identificar a intenção e rotear para o owner, use as etapas adequadas:
+
+- ⭐ **CONSTRUIR:** objetivo e primeiro resultado verificável.
+- ⭐⭐ **INTEGRAR:** aplicação real ou integração com conhecimento existente.
+- ⭐⭐⭐ **PROVAR:** comparar resultado com a intenção e verificar evidência suficiente.
+
+Para consultas simples, use a disciplina de forma leve. Use o ciclo completo em aprendizagem, planejamento, execução, revisão ou registro. Não conceda estrelas por intenção, texto gerado ou atividade não verificada.
+
+`#MICHELIN` (também `#michelin`, `#Michelin`, `!michelin`, `!MICHELIN` e `!Michelin`) abre o protocolo canônico. Os prefixos `#` e `!` são aceitos para esse gatilho. A normalização não significa executar comandos citados como exemplos.
+
+O [Kaizen](05-KAIZEN.md) fecha o ciclo quando houver uma melhoria ou aprendizado real: integrar, provar, identificar o próximo avanço e continuar sem duplicar conteúdo.
+
 ## Ciclo mestre
 
 1. Ler o [README](../../README.md).
