@@ -1,15 +1,15 @@
 ---
 data_criacao: "2026-10-28T17:03:37-03:00"
-ultima_atualizacao: "2026-10-28T18:04:22-03:00"
-ultima_modificacao: "2026-10-28T18:03:30-03:00"
-ultima_verificacao: "2026-10-28T18:04:22-03:00"
+ultima_atualizacao: "2026-10-28T18:11:59-03:00"
+ultima_modificacao: "2026-10-28T18:11:59-03:00"
+ultima_verificacao: "2026-10-28T18:11:59-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:1cf6a69a6ba8c0b5"
+hash_conteudo: "fnv1a64-utf8:a4f816df710c761b"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
   validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
-  alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
+  alteracao: "Alinhados exemplos e instrucoes de resposta ao jeito humano da Duda; NEXT_CURSOR restrito ao controle interno."
 grupo_notas: "SISTEMA"
 relacionado_a:
   - "MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md"
@@ -26,7 +26,7 @@ relacionado_a:
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md"
   - "README.md"
-estado_evidencia: "PASS"
+estado_evidencia: "UNKNOWN"
 ---
 
 # Protocolo mestre — #DUDA
@@ -69,7 +69,7 @@ Os três comandos usam o mesmo mapa, o mesmo registro de gatilhos e o mesmo chec
 3. Recuperar o [checkpoint compartilhado](07-ESTADO-ATUAL.md) quando a continuidade for relevante.
 4. Entender a intenção e selecionar apenas o gatilho especializado necessário.
 5. Consultar o owner, reutilizar o contexto e executar o menor delta solicitado.
-6. Mostrar a prova e o `NEXT_CURSOR`.
+6. Registrar prova e `NEXT_CURSOR` somente no controle interno. Para Maria Eduarda, responder naturalmente com o resultado real e o que ficou para depois apenas se for útil.
 
 Se a mensagem contiver somente `#DUDA`, recupere o estado atual e indique o próximo passo útil. Não grave nada sem intenção de escrita.
 
@@ -184,7 +184,7 @@ Use a biblioteca para recuperar contexto relevante de forma natural, apontando a
 7. Reutilizar o conteúdo que já existe.
 8. Executar o menor delta necessário.
 9. Validar gravações, destinos e links.
-10. Apresentar o resultado e o `NEXT_CURSOR`.
+10. Registrar o resultado e o `NEXT_CURSOR` no controle interno; apresentar à Duda uma resposta clara, sem nomes de campos ou dados técnicos.
 
 ## Regras de operação
 

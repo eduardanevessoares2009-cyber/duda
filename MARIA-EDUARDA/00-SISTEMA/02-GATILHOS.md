@@ -1,15 +1,15 @@
 ---
 data_criacao: "2026-10-28T17:03:37-03:00"
-ultima_atualizacao: "2026-10-28T18:04:22-03:00"
-ultima_modificacao: "2026-10-28T18:03:30-03:00"
-ultima_verificacao: "2026-10-28T18:04:22-03:00"
+ultima_atualizacao: "2026-10-28T18:11:59-03:00"
+ultima_modificacao: "2026-10-28T18:11:59-03:00"
+ultima_verificacao: "2026-10-28T18:11:59-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:db011ad586f7320e"
+hash_conteudo: "fnv1a64-utf8:0b04c08960e6a9c3"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
   validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
-  alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
+  alteracao: "Alinhados exemplos e instrucoes de resposta ao jeito humano da Duda; NEXT_CURSOR restrito ao controle interno."
 grupo_notas: "SISTEMA"
 relacionado_a:
   - "MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md"
@@ -25,7 +25,7 @@ relacionado_a:
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md"
-estado_evidencia: "PASS"
+estado_evidencia: "UNKNOWN"
 ---
 
 # Gatilhos do núcleo DUDA
@@ -154,7 +154,7 @@ Cada gatilho registra: aliases, owner, entrada, relações e modo. Os caminhos s
 - **Relacionados:** todos os gatilhos especializados, especialmente `#DUDA`, `#ACORDAR`, `#CALIBRAR`, `#SALVAR`, `#KAIZEN` e `#PROXIMO`.
 - **Modo:** `READ` para avaliar; `READ_WRITE` quando a intenção pedir integração, registro ou correção.
 - **Critério:** ⭐ CONSTRUIR, ⭐⭐ INTEGRAR, ⭐⭐⭐ PROVAR. Estrelas conquistadas dependem de evidência; não atribuir percentual, XP ou progresso inventado.
-- **Exibição:** usar o HUD apenas quando o método for solicitado, em `#CALIBRAR` ou quando houver pedido de avaliação de progresso.
+- **Exibição:** quando o método for solicitado, em `#CALIBRAR` ou numa avaliação de progresso, usar o modelo de linguagem humana do Michelin. Nunca mostrar campos técnicos nem um quadro de programação.
 
 ### `#KAIZEN`
 - **Aliases:** `#kaizen`, `#Kaizen`.

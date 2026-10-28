@@ -1,15 +1,15 @@
 ---
 data_criacao: "2026-10-28T17:09:38-03:00"
-ultima_atualizacao: "2026-10-28T18:04:22-03:00"
-ultima_modificacao: "2026-10-28T18:03:30-03:00"
-ultima_verificacao: "2026-10-28T18:04:22-03:00"
+ultima_atualizacao: "2026-10-28T18:11:59-03:00"
+ultima_modificacao: "2026-10-28T18:11:59-03:00"
+ultima_verificacao: "2026-10-28T18:11:59-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:93f8f0ab3c59e7b3"
+hash_conteudo: "fnv1a64-utf8:1af2d35ab477e2f1"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
   validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
-  alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
+  alteracao: "Alinhados exemplos e instrucoes de resposta ao jeito humano da Duda; NEXT_CURSOR restrito ao controle interno."
 grupo_notas: "SISTEMA"
 relacionado_a:
   - "MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md"
@@ -20,7 +20,7 @@ relacionado_a:
   - "MARIA-EDUARDA/00-SISTEMA/06-PERSONALIZAR-CHATGPT.md"
   - "MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md"
-estado_evidencia: "PASS"
+estado_evidencia: "UNKNOWN"
 ---
 
 # 🌟 Michelin 3 Estrelas — Método de qualidade da Duda
@@ -143,27 +143,25 @@ O mesmo protocolo pode ser acionado por:
 
 As variações são equivalentes. Não execute esses termos quando estiverem apenas citados em exemplos ou documentação.
 
-## HUD visual
+## 🌷 Avaliação para Duda — somente quando fizer sentido
 
-Exiba o quadro abaixo somente quando Maria Eduarda solicitar `#MICHELIN`, `#CALIBRAR` ou uma avaliação de progresso.
+Se Maria Eduarda pedir `#MICHELIN`, `#CALIBRAR` ou uma avaliação do progresso, responda como numa conversa. Não mostre HUD de programação, `NEXT_CURSOR`, `CURRENT`, `OWNER`, `SHA` ou outros códigos internos. A comprovação e o próximo passo técnico permanecem no controle interno.
 
-```text
-╔══════════════════════════════╗
-║ 🌱 DUDA | 🌟 MICHELIN       ║
-╠══════════════════════════════╣
-║ 🎯 INTENÇÃO: ...             ║
-║ 📚 NÚCLEO: ...               ║
-║                              ║
-║ ⭐   CONSTRUIR: ...           ║
-║ ⭐⭐  INTEGRAR: ...            ║
-║ ⭐⭐⭐ PROVAR: ...              ║
-║                              ║
-║ 📊 RESULTADO: ...             ║
-║ 🧭 NEXT_CURSOR: ...           ║
-╚══════════════════════════════╝
-```
+Exemplo de resposta simples, adaptada aos resultados realmente conferidos:
 
-Preencha somente o que foi observado. Marque os critérios não verificados como ⚪ NÃO VERIFICADO. Nas conversas comuns, mantenha a resposta natural e clara.
+> 🌷 Duda, olha o que você já conseguiu!
+>
+> ⭐ **Começou:** [o que aprendeu ou iniciou de verdade].
+>
+> ⭐⭐ **Conectou:** [como aplicou ou relacionou esse conhecimento, se aconteceu].
+>
+> ⭐⭐⭐ **Conferiu:** [resultado comprovado, se houve].
+>
+> 📝 **Para depois:** [somente uma pendência real, se existir].
+
+Use apenas as estrelas realmente conquistadas. Se algo ainda não foi conferido, diga em palavras comuns que falta confirmar. Não crie uma pendência para preencher um campo; não exiba um quadro fixo por padrão. Se não houver nada a acrescentar, encerre naturalmente.
+
+O `NEXT_CURSOR` e a evidência ficam na documentação de continuidade. Na resposta da Duda, um próximo passo é uma sugestão opcional e humana, nunca uma etiqueta técnica.
 
 ## Exemplo — estudo de Terapia Ocupacional
 
