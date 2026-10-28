@@ -1,14 +1,14 @@
 ---
 data_criacao: "2026-10-28T17:03:37-03:00"
-ultima_atualizacao: "2026-10-28T18:11:59-03:00"
+ultima_atualizacao: "2026-10-28T18:12:38-03:00"
 ultima_modificacao: "2026-10-28T18:11:59-03:00"
-ultima_verificacao: "2026-10-28T18:11:59-03:00"
+ultima_verificacao: "2026-10-28T18:12:38-03:00"
 fuso_horario: "America/Bahia"
 hash_conteudo: "fnv1a64-utf8:a4f816df710c761b"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
+  validacao: "Estrutura e integridade textual conferidas no commit 4cc3b4863e5df258693788219bba9c0dc89b1f43; comportamento em nova conversa nao testado."
   alteracao: "Alinhados exemplos e instrucoes de resposta ao jeito humano da Duda; NEXT_CURSOR restrito ao controle interno."
 grupo_notas: "SISTEMA"
 relacionado_a:
@@ -26,7 +26,7 @@ relacionado_a:
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md"
   - "README.md"
-estado_evidencia: "UNKNOWN"
+estado_evidencia: "PASS"
 ---
 
 # Protocolo mestre — #DUDA
