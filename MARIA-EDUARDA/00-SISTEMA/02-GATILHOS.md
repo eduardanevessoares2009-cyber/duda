@@ -6,6 +6,7 @@ Os gatilhos não diferenciam maiúsculas de minúsculas. Use-os como comandos de
 |---|---|---|
 | `#DUDA` | Coordenar o núcleo | [Protocolo mestre](01-DUDA-PROTOCOLO.md) |
 | `#ACORDAR` | Recuperar continuidade | [Estado atual](07-ESTADO-ATUAL.md) |
+| `#CALIBRAR` | Comparar e verificar consistência | [Protocolo mestre](01-DUDA-PROTOCOLO.md) e [estado atual](07-ESTADO-ATUAL.md) |
 | `#GENESIS` | Início da jornada | [Mapa de Gênesis](../01-PENTATEUCO/01-GENESIS/00-MAPA.md) |
 | `#IDENTIDADE` | Autodescrição e valores | [Quem sou eu](../01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md) |
 | `#HISTORIA` | Acontecimentos da jornada | [Como tudo começou](../01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md) |
@@ -38,6 +39,16 @@ Cada gatilho registra: aliases, owner, entrada, relações e modo. Os caminhos s
 - **Entrada:** checkpoint e mapa do núcleo pertinente.
 - **Relacionados:** `#DUDA`, `#PROXIMO`.
 - **Modo:** `READ`.
+
+### `#CALIBRAR`
+- **Aliases:** `#calibrar`, `#Calibrar` e outras capitalizações.
+- **Owner:** sistema canônico completo; usa o mesmo checkpoint [07-ESTADO-ATUAL.md](07-ESTADO-ATUAL.md).
+- **Entrada:** checkpoint, [mapa principal](00-MAPA-DA-MENTE.md), árvore real e este registro.
+- **Função:** comparar mapa e árvore, validar gatilhos, owners e links, procurar duplicatas evidentes e verificar se o checkpoint está atualizado.
+- **Estados:** `GREEN` (verificado e consistente), `YELLOW` (pendência), `RED` (falha comprovada), `UNKNOWN` (não verificado).
+- **Modo:** `READ` para inspeção; `READ_WRITE` apenas para corrigir o menor delta autorizado.
+- **Relacionados:** `#DUDA`, `#ACORDAR`, `#REVISAR`, `#MAPEAR`.
+- **Regra:** `#ACORDAR` recupera o que está registrado; `#CALIBRAR` compara fontes e verifica consistência. `UNKNOWN` nunca é `PASS`.
 
 ### `#GENESIS`
 - **Aliases:** `#genesis`, `#Genesis`.

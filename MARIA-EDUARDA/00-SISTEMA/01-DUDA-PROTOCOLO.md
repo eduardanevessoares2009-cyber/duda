@@ -4,6 +4,8 @@
 #DUDA = MASTER_TRIGGER
 TRIGGER_CASE_SENSITIVE=false
 TRIGGER_NORMALIZATION=UPPERCASE
+NORMALIZE_TRIGGER=UPPERCASE
+TRIGGER_PREFIX=#
 TRIGGER_ROUTING=SEMANTIC
 SOURCE_OF_TRUTH=GITHUB
 REUSE_BEFORE_CREATE=true
@@ -16,6 +18,54 @@ NEXT_CURSOR_REQUIRED=true
 Reconheça `#DUDA`, `#duda`, `#Duda` e outras combinações de maiúsculas e minúsculas como o mesmo comando quando usados para acionar o núcleo. A normalização também vale para os gatilhos especializados.
 
 Não execute um gatilho apenas porque aparece como exemplo, dentro de documentação, citação ou bloco de código.
+
+## Tríade mestra: coordenar, recuperar e verificar
+
+Os três comandos usam o mesmo mapa, o mesmo registro de gatilhos e o mesmo checkpoint. Não crie memória paralela.
+
+```text
+#DUDA     = COORDENAR
+#ACORDAR  = RECUPERAR
+#CALIBRAR = VERIFICAR
+```
+
+### `#DUDA` — coordenar
+1. Normalizar o gatilho para maiúsculas.
+2. Ler o README, este protocolo e o [mapa principal](00-MAPA-DA-MENTE.md).
+3. Recuperar o [checkpoint compartilhado](07-ESTADO-ATUAL.md) quando a continuidade for relevante.
+4. Entender a intenção e selecionar apenas o gatilho especializado necessário.
+5. Consultar o owner, reutilizar o contexto e executar o menor delta solicitado.
+6. Mostrar a prova e o `NEXT_CURSOR`.
+
+Se a mensagem contiver somente `#DUDA`, recupere o estado atual e indique o próximo passo útil. Não grave nada sem intenção de escrita.
+
+### `#ACORDAR` — recuperar continuidade
+1. Ler [07-ESTADO-ATUAL.md](07-ESTADO-ATUAL.md).
+2. Ler o [mapa principal](00-MAPA-DA-MENTE.md).
+3. Identificar última atividade confirmada, owner ativo e `NEXT_CURSOR`.
+4. Ler somente as notas relacionadas ao próximo passo.
+5. Responder com o que está documentado.
+
+Se o checkpoint não documentar o contexto necessário, marque-o como `UNKNOWN`. Não invente lembranças, não reinicie o projeto e não altere arquivos apenas para acordar o núcleo.
+
+### `#CALIBRAR` — comparar e verificar
+1. Ler o checkpoint e identificar o HEAD atual da `main`.
+2. Comparar o mapa com a árvore real.
+3. Verificar gatilhos, owners, caminhos e links relativos.
+4. Procurar mapas/checkpoints paralelos e duplicação material evidente.
+5. Verificar a Lei da Árvore e identificar arquivos existentes que o índice omita.
+6. Classificar resultados como `GREEN`, `YELLOW`, `RED` ou `UNKNOWN`.
+7. Corrigir somente o menor delta autorizado; validar destino antes de mover ou excluir.
+8. Atualizar o checkpoint quando houver mudança relevante confirmada.
+
+```text
+GREEN   = VERIFICADO E CONSISTENTE
+YELLOW  = PENDÊNCIA IDENTIFICADA
+RED     = FALHA COMPROVADA
+UNKNOWN = NÃO VERIFICADO
+```
+
+`UNKNOWN` não significa sucesso. Uma especificação documentada não comprova que um comando funciona em uma nova conversa. O comportamento real precisa de teste separado.
 
 ## Ciclo mestre
 

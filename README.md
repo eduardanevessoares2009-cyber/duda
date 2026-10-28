@@ -4,6 +4,18 @@ Esta biblioteca reúne estudos, aprendizados, ideias e registros pessoais. A ár
 
 ## Começar
 
+### 👑 Como ativar minha biblioteca
+
+```text
+#DUDA     → Ativa meu núcleo pessoal e coordena os gatilhos.
+#ACORDAR  → Recupera onde parei usando o checkpoint.
+#CALIBRAR → Verifica se mapa, arquivos, owners e links estão alinhados.
+```
+
+Quando eu começar uma nova conversa, posso usar `#DUDA`. Se precisar recuperar o último contexto, uso `#ACORDAR`. Se encontrar informações contraditórias ou desatualizadas, uso `#CALIBRAR`.
+
+Esses comandos são instruções conversacionais. O funcionamento depende de o ChatGPT usar estas regras e ter acesso ao conector do GitHub.
+
 Use `#DUDA` como gatilho mestre na conversa com o ChatGPT quando o conector do GitHub estiver disponível. O assistente consulta o núcleo existente, entende a intenção e procura o owner correto antes de sugerir ou executar mudanças.
 
 - [Mapa da Mente](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md)
