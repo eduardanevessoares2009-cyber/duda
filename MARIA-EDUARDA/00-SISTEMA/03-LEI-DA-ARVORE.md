@@ -57,3 +57,9 @@ A estrutura bíblica é uma arquitetura de navegação. Ela não deve alterar o 
 - [Mapa da Mente](00-MAPA-DA-MENTE.md)
 - [Protocolo mestre](01-DUDA-PROTOCOLO.md)
 - [Gatilhos](02-GATILHOS.md)
+
+## 🔗 Conferir relações antes de modificar notas
+
+PROIBIDO editar às cegas. Antes de alterar qualquer nota, ler a nota atual, seu mapa, links de saída, links de entrada identificáveis e dependências relevantes. Identificar pendências ligadas ao assunto, contradições, duplicatas e histórico; não reescrever indiscriminadamente todas as notas consultadas. Se uma relação indispensável não puder ser conferida, suspender apenas a mudança afetada. Após autorização: menor alteração → conferir conteúdo salvo → conferir links afetados → registrar resultado.
+
+Preservar data de criação comprovada; separar última modificação de última verificação; não inventar datas, hashes, fontes nem evidências. Guardar metadados e provas nos documentos internos, sem poluir a conversa. Regras: NO_BLIND_NOTE_UPDATE; NO_UNCHECKED_RELEVANT_DEPENDENCIES; NO_DUPLICATE_PERSONAL_MEMORY; NO_INVENTED_PERSONAL_FACTS; NO_UNVERIFIED_SAVE_CLAIMS; NO_UNRELATED_NOTE_REWRITE.

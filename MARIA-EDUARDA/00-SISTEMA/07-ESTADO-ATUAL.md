@@ -62,3 +62,7 @@ Na etapa seguinte, copiar o texto de [06-PERSONALIZAR-CHATGPT.md](06-PERSONALIZA
 
 ## ÚLTIMA VERIFICAÇÃO
 2026-10-28 — branch `main`, commit de conteúdo `569b70815136cfc72e2cb3c08fc0b348314d2dfc`. Os cinco arquivos alterados foram relidos; links locais sem destinos ausentes; mapa único, checkpoint único e notas de Gênesis preservados. O teste em nova conversa permanece `UNKNOWN`.
+
+## Revisão solicitada — linguagem humana e relações
+
+A comunicação cotidiana não deve usar relatórios técnicos. Toda mudança futura em nota deve verificar suas relações relevantes primeiro. O funcionamento real em conversa nova continua sem teste até confirmação. Preservar o único checkpoint.

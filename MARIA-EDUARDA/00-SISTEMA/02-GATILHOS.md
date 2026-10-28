@@ -171,3 +171,7 @@ Cada gatilho registra: aliases, owner, entrada, relações e modo. Os caminhos s
 - **Entrada:** arquitetura dos 66 livros planejados.
 - **Relacionados:** `#GENESIS`, `#FE`, `#MAPEAR`.
 - **Modo:** `READ_WRITE` conforme a intenção.
+
+## 🌷 Regra de expressão humana
+
+Na conversa cotidiana, os gatilhos não exibem CURRENT, OWNER, DELTA, PROVA, NEXT_CURSOR, SHA, PASS ou relatórios. Consultar o [Modo Clareza](04-MODO-CLAREZA.md). #SALVAR exige verificar nota e relações relevantes segundo a [Lei da Árvore](03-LEI-DA-ARVORE.md). #ACORDAR retoma o que foi de fato documentado; #CALIBRAR traduz verificações para linguagem simples.

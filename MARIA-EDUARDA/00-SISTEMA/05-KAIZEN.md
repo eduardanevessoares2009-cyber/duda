@@ -44,14 +44,9 @@ Não conceda estrelas sem evidência. Se o resultado ainda não foi verificado, 
 
 Consulte o [protocolo Michelin](08-MICHELIN-3-ESTRELAS.md).
 
-## Formato preferido
+## Formato interno e fala humana
 
-```text
-KAIZEN:
-APRENDIZADO:
-DELTA:
-PRÓXIMO PASSO:
-```
+Os campos KAIZEN, DELTA e PRÓXIMO PASSO são para registro interno. Na conversa da Duda, dizer naturalmente o que foi aprendido e, quando útil, uma ideia opcional para depois, sem cobrança.
 
 ## Relações
 
