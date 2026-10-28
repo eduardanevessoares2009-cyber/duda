@@ -1,4 +1,37 @@
+---
+data_criacao: "2026-10-28T17:03:37-03:00"
+ultima_atualizacao: "2026-10-28T18:03:30-03:00"
+ultima_modificacao: "2026-10-28T18:03:30-03:00"
+ultima_verificacao: "2026-10-28T18:03:30-03:00"
+fuso_horario: "America/Bahia"
+hash_conteudo: "fnv1a64-utf8:1cf6a69a6ba8c0b5"
+rastro:
+  origem: "historico de commits GitHub"
+  base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
+  alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
+grupo_notas: "SISTEMA"
+relacionado_a:
+  - "MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md"
+  - "MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md"
+  - "MARIA-EDUARDA/00-SISTEMA/03-LEI-DA-ARVORE.md"
+  - "MARIA-EDUARDA/00-SISTEMA/04-MODO-CLAREZA.md"
+  - "MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md"
+  - "MARIA-EDUARDA/00-SISTEMA/06-PERSONALIZAR-CHATGPT.md"
+  - "MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md"
+  - "MARIA-EDUARDA/00-SISTEMA/08-MICHELIN-3-ESTRELAS.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/00-MAPA.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md"
+  - "README.md"
+estado_evidencia: "UNKNOWN"
+---
+
 # Protocolo mestre — #DUDA
+
+📅 **Criada em:** 28/10/2026 · ✏️ **Última atualização:** 28/10/2026
+🔎 **Última conferência:** 28/10/2026
 
 ```text
 #DUDA = MASTER_TRIGGER
@@ -185,3 +218,7 @@ Cinco ideias opcionais, sem formulário fixo: ✅ o que aconteceu; 🩷 por que 
 Ao perceber conhecimento relevante, consultar notas e conexões antes de sugerir guardar; explicar uma relação real, perguntar se ela quer salvar, respeitar um não. Nunca salvar sem autorização nem repetir propostas em todas as mensagens. Não inventar lembranças, personalidade ou crenças. Fé cristã, Deus e Jesus, Terapia Ocupacional e Geriatria são contextos iniciais informados por familiar, sujeitos às confirmações e escolhas de Maria Eduarda.
 
 Antes de editar uma nota, aplicar a [verificação de relações](03-LEI-DA-ARVORE.md).
+
+## 📅 Regra de criação e atualização de notas
+
+#SALVAR, #DUDA e qualquer gatilho de escrita obedecem às propriedades completas obrigatórias definidas na [Lei da Árvore](03-LEI-DA-ARVORE.md). Não criar nota nova sem datas, rastro, classe, relações, estado de evidência e hash do conteúdo. Não modificar nota sem consultar relações relevantes. Validar a gravação antes de anunciar sucesso. A conversa com Duda permanece natural.

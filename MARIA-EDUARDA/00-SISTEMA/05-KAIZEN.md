@@ -1,4 +1,28 @@
+---
+data_criacao: "2026-10-28T17:03:37-03:00"
+ultima_atualizacao: "2026-10-28T18:03:30-03:00"
+ultima_modificacao: "2026-10-28T18:03:30-03:00"
+ultima_verificacao: "2026-10-28T18:03:30-03:00"
+fuso_horario: "America/Bahia"
+hash_conteudo: "fnv1a64-utf8:9e9f1444e5fcca41"
+rastro:
+  origem: "historico de commits GitHub"
+  base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
+  alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
+grupo_notas: "SISTEMA"
+relacionado_a:
+  - "MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md"
+  - "MARIA-EDUARDA/00-SISTEMA/01-DUDA-PROTOCOLO.md"
+  - "MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md"
+  - "MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md"
+  - "MARIA-EDUARDA/00-SISTEMA/08-MICHELIN-3-ESTRELAS.md"
+estado_evidencia: "UNKNOWN"
+---
+
 # Kaizen — pequenas melhorias contínuas
+
+📅 **Criada em:** 28/10/2026 · ✏️ **Última atualização:** 28/10/2026
+🔎 **Última conferência:** 28/10/2026
 
 Kaizen significa buscar melhorias pequenas e úteis ao longo do tempo. Nesta biblioteca, registre somente aprendizados reais. Não crie trabalho artificial para parecer produtivo.
 

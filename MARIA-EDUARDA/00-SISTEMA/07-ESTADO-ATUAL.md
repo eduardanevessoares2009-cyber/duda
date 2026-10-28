@@ -1,4 +1,36 @@
+---
+data_criacao: "2026-10-28T17:03:37-03:00"
+ultima_atualizacao: "2026-10-28T18:03:30-03:00"
+ultima_modificacao: "2026-10-28T18:03:30-03:00"
+ultima_verificacao: "2026-10-28T18:03:30-03:00"
+fuso_horario: "America/Bahia"
+hash_conteudo: "fnv1a64-utf8:263d7569ee239924"
+rastro:
+  origem: "historico de commits GitHub"
+  base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
+  alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
+grupo_notas: "SISTEMA"
+relacionado_a:
+  - "MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md"
+  - "MARIA-EDUARDA/00-SISTEMA/01-DUDA-PROTOCOLO.md"
+  - "MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md"
+  - "MARIA-EDUARDA/00-SISTEMA/04-MODO-CLAREZA.md"
+  - "MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md"
+  - "MARIA-EDUARDA/00-SISTEMA/06-PERSONALIZAR-CHATGPT.md"
+  - "MARIA-EDUARDA/00-SISTEMA/08-MICHELIN-3-ESTRELAS.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/00-MAPA.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md"
+  - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md"
+  - "README.md"
+estado_evidencia: "UNKNOWN"
+---
+
 # ESTADO ATUAL — DUDA
+
+📅 **Criada em:** 28/10/2026 · ✏️ **Última atualização:** 28/10/2026
+🔎 **Última conferência:** 28/10/2026
 
 ## CURRENT
 O núcleo está na branch `main`. A missão de dar vida à biblioteca foi integrada aos arquivos existentes. A biblioteca tem uma apresentação mais acolhedora e uma regra de curiosidade útil: identificar oportunidades relevantes de registrar conhecimento, localizar a nota existente, explicar uma conexão concreta e pedir autorização antes de salvar.

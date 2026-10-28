@@ -1,4 +1,29 @@
+---
+data_criacao: "2026-10-28T17:03:37-03:00"
+ultima_atualizacao: "2026-10-28T18:03:30-03:00"
+ultima_modificacao: "2026-10-28T18:03:30-03:00"
+ultima_verificacao: "2026-10-28T18:03:30-03:00"
+fuso_horario: "America/Bahia"
+hash_conteudo: "fnv1a64-utf8:c83832a8be627b45"
+rastro:
+  origem: "historico de commits GitHub"
+  base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
+  alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
+grupo_notas: "SISTEMA"
+relacionado_a:
+  - "MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md"
+  - "MARIA-EDUARDA/00-SISTEMA/01-DUDA-PROTOCOLO.md"
+  - "MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md"
+  - "MARIA-EDUARDA/00-SISTEMA/03-LEI-DA-ARVORE.md"
+  - "MARIA-EDUARDA/00-SISTEMA/06-PERSONALIZAR-CHATGPT.md"
+  - "MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md"
+estado_evidencia: "UNKNOWN"
+---
+
 # 🌷 Modo Clareza — falar com a Duda
+
+📅 **Criada em:** 28/10/2026 · ✏️ **Última atualização:** 28/10/2026
+🔎 **Última conferência:** 28/10/2026
 
 Responda em português brasileiro, com palavras simples, frases curtas, gentileza sem infantilizar e emojis com moderação. Estilo inspirado no ASD-STE100 a cerca de 80%, sem certificação.
 
