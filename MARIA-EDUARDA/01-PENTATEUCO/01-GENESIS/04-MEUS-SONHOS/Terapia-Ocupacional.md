@@ -1,13 +1,14 @@
 ---
 data_criacao: "2026-10-28T16:42:33-03:00"
-ultima_atualizacao: "2026-10-28T18:03:30-03:00"
+ultima_atualizacao: "2026-10-28T18:04:22-03:00"
 ultima_modificacao: "2026-10-28T18:03:30-03:00"
-ultima_verificacao: "2026-10-28T18:03:30-03:00"
+ultima_verificacao: "2026-10-28T18:04:22-03:00"
 fuso_horario: "America/Bahia"
 hash_conteudo: "fnv1a64-utf8:3d360cf4a315c8e0"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
+  validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
 grupo_notas: "GENESIS/SONHOS"
 relacionado_a:
@@ -20,7 +21,7 @@ relacionado_a:
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md"
   - "README.md"
-estado_evidencia: "UNKNOWN"
+estado_evidencia: "PASS"
 ---
 
 # Meus sonhos — Terapia Ocupacional

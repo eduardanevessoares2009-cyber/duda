@@ -1,13 +1,14 @@
 ---
 data_criacao: "2026-10-28T17:03:37-03:00"
-ultima_atualizacao: "2026-10-28T18:03:30-03:00"
+ultima_atualizacao: "2026-10-28T18:04:22-03:00"
 ultima_modificacao: "2026-10-28T18:03:30-03:00"
-ultima_verificacao: "2026-10-28T18:03:30-03:00"
+ultima_verificacao: "2026-10-28T18:04:22-03:00"
 fuso_horario: "America/Bahia"
 hash_conteudo: "fnv1a64-utf8:300cd0ecbaee6e70"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
+  validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
 grupo_notas: "SISTEMA"
 relacionado_a:
@@ -16,7 +17,7 @@ relacionado_a:
   - "MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md"
   - "MARIA-EDUARDA/00-SISTEMA/04-MODO-CLAREZA.md"
   - "MARIA-EDUARDA/00-SISTEMA/08-MICHELIN-3-ESTRELAS.md"
-estado_evidencia: "UNKNOWN"
+estado_evidencia: "PASS"
 ---
 
 # Lei da Árvore Semântica — Duda

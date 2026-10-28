@@ -1,13 +1,14 @@
 ---
 data_criacao: "2026-10-28T16:42:31-03:00"
-ultima_atualizacao: "2026-10-28T18:03:30-03:00"
+ultima_atualizacao: "2026-10-28T18:04:22-03:00"
 ultima_modificacao: "2026-10-28T18:03:30-03:00"
-ultima_verificacao: "2026-10-28T18:03:30-03:00"
+ultima_verificacao: "2026-10-28T18:04:22-03:00"
 fuso_horario: "America/Bahia"
 hash_conteudo: "fnv1a64-utf8:19821377cb114b55"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
+  validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
 grupo_notas: "GENESIS/FE"
 relacionado_a:
@@ -17,7 +18,7 @@ relacionado_a:
   - "MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/00-MAPA.md"
   - "README.md"
-estado_evidencia: "UNKNOWN"
+estado_evidencia: "PASS"
 ---
 
 # Minha fé e meus princípios
