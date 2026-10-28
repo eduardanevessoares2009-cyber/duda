@@ -57,6 +57,16 @@ A biblioteca planeja a navegação pelos 66 livros da Bíblia protestante, na or
 
 Consulte a [Lei da Árvore Semântica](MARIA-EDUARDA/00-SISTEMA/03-LEI-DA-ARVORE.md) para os endereços estáveis, nomes semânticos, limite de pastas diretas e regra de reutilização.
 
+## 🌟 Método Michelin 3 Estrelas
+
+O método foi passado a Maria Eduarda pelo irmão dela e está adaptado ao pensamento e à biblioteca pessoal da Duda.
+
+- ⭐ **CONSTRUIR:** entender a intenção e produzir o primeiro resultado verificável.
+- ⭐⭐ **INTEGRAR:** aplicar o aprendizado e conectá-lo ao conhecimento existente.
+- ⭐⭐⭐ **PROVAR:** comparar o resultado com a intenção e confirmar evidência suficiente.
+
+As estrelas dependem de evidência. Não há pontuação automática. O Michelin se integra ao [Kaizen](MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md) e usa os owners e o checkpoint existentes. Consulte o [protocolo completo](MARIA-EDUARDA/00-SISTEMA/08-MICHELIN-3-ESTRELAS.md).
+
 ## Kaizen e Modo Clareza
 
 - [Kaizen](MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md): pequenas melhorias baseadas em aprendizado real.
