@@ -1,80 +1,117 @@
-# 🌱 Biblioteca Digital de Maria Eduarda
+# 🌷✨ Oi, Duda! Bem-vinda à sua biblioteca!
 
-Esta biblioteca reúne estudos, aprendizados, ideias e registros pessoais. A árvore semântica organiza o conhecimento por significado. O GitHub é a fonte externa de verdade quando o repositório está acessível.
+**🩷 Um cantinho para guardar ideias, sonhos, aprendizados e tudo aquilo que merece ser lembrado.**
 
-## Começar
+Esta biblioteca cresce com você. Aqui, experiências podem virar conhecimento, estudos podem se conectar aos seus sonhos e cada descoberta pode ajudar você a compreender melhor a própria jornada.
 
-### 👑 Como ativar minha biblioteca
+📖 Sua fé pode inspirar aprendizados.  
+📚 Seus estudos podem abrir caminhos.  
+🧠 Suas ideias podem encontrar novas conexões.  
+🌱 Seus pequenos avanços podem construir resultados.
 
-```text
-#DUDA     → Ativa meu núcleo pessoal e coordena os gatilhos.
-#ACORDAR  → Recupera onde parei usando o checkpoint.
-#CALIBRAR → Verifica se mapa, arquivos, owners e links estão alinhados.
-```
+**Você decide o caminho. Sua biblioteca ajuda a guardar o que importa.**
 
-Quando eu começar uma nova conversa, posso usar `#DUDA`. Se precisar recuperar o último contexto, uso `#ACORDAR`. Se encontrar informações contraditórias ou desatualizadas, uso `#CALIBRAR`.
+## 🩷 Quem sou eu?
 
-Esses comandos são instruções conversacionais. O funcionamento depende de o ChatGPT usar estas regras e ter acesso ao conector do GitHub.
+Este é um espaço para você registrar o que desejar, no seu tempo e com suas próprias palavras.
 
-Use `#DUDA` como gatilho mestre na conversa com o ChatGPT quando o conector do GitHub estiver disponível. O assistente consulta o núcleo existente, entende a intenção e procura o owner correto antes de sugerir ou executar mudanças.
-
-- [Mapa da Mente](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md)
-- [Protocolo mestre #DUDA](MARIA-EDUARDA/00-SISTEMA/01-DUDA-PROTOCOLO.md)
-- [Registro de gatilhos](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md)
-- [Estado atual e próximo passo](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md)
-
-## Gatilhos principais
-
-| Gatilho | Uso | Entrada |
-|---|---|---|
-| `#DUDA` | Recupera o núcleo e coordena os outros comandos | [Protocolo mestre](MARIA-EDUARDA/00-SISTEMA/01-DUDA-PROTOCOLO.md) |
-| `#ACORDAR` | Recupera a continuidade | [Estado atual](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md) |
-| `#GENESIS` | Navega o começo da jornada | [Mapa de Gênesis](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/00-MAPA.md) |
-| `#IDENTIDADE` | Consulta a nota de identidade | [Quem sou eu](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md) |
-| `#HISTORIA` | Consulta a nota de história | [Como tudo começou](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md) |
-| `#FE` | Consulta fé e princípios | [Meus princípios](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md) |
-| `#SONHOS` / `#TO` | Objetivos e Terapia Ocupacional | [Sonhos e TO](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md) |
-| `#SALVAR` | Guarda conhecimento no owner correto | [Mapa](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md) |
-| `#KAIZEN` | Registra aprendizado e pequeno avanço | [Kaizen](MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md) |
-| `#MICHELIN` / `!michelin` | Constrói, integra e prova resultados | [Michelin 3 Estrelas](MARIA-EDUARDA/00-SISTEMA/08-MICHELIN-3-ESTRELAS.md) |
-| `#MAPEAR` / `#BUSCAR` / `#BIBLIA` | Localiza conteúdo e arquitetura | [Mapa da Mente](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md) |
-| `#CONECTAR` / `#REVISAR` | Relaciona ou revisa notas existentes | [Registro de gatilhos](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md) |
-| `#PROXIMO` | Retorna um próximo passo concreto | [Estado atual](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md) |
-
-A lista detalhada, com aliases, owners e modos de uso, está em [02-GATILHOS.md](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md).
-
-## Núcleo pessoal ativo — Gênesis
-
-- [Mapa de Gênesis](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/00-MAPA.md)
 - [Minha identidade](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md)
 - [Minha história](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md)
 - [Minha fé e meus princípios](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md)
+
+Não é necessário preencher tudo. Só registre o que você quiser preservar.
+
+## 📖 Minha jornada começa em Gênesis
+
+Gênesis é o primeiro núcleo pessoal ativo da biblioteca. Ele reúne caminhos para organizar começos, identidade, história, fé e sonhos, sem substituir o significado bíblico do livro.
+
+- [Mapa pessoal de Gênesis](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/00-MAPA.md)
+- [Arquitetura bíblica e Mapa da Mente](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md)
+
+## 📚 Meus estudos e sonhos
+
+A nota existente sobre Terapia Ocupacional pode ajudar a organizar perguntas, descobertas, assuntos para pesquisar e pequenos próximos passos.
+
 - [Meus sonhos — Terapia Ocupacional](MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md)
 
-## Arquitetura bíblica
+Um objetivo pode mudar com o tempo. A biblioteca acompanha suas ideias, não transforma planos em obrigações.
 
-A biblioteca planeja a navegação pelos 66 livros da Bíblia protestante, na ordem de Gênesis a Apocalipse. Os nove grupos são categorias de navegação, não novos livros bíblicos. O mapa documenta a árvore planejada; novos núcleos só devem ser materializados quando houver conteúdo real.
+## 🧠 Minha memória organizada
 
-Consulte a [Lei da Árvore Semântica](MARIA-EDUARDA/00-SISTEMA/03-LEI-DA-ARVORE.md) para os endereços estáveis, nomes semânticos, limite de pastas diretas e regra de reutilização.
+O conhecimento fica em notas com um lugar principal para cada assunto. Antes de criar uma nova, procure a nota existente e conecte assuntos relacionados por links.
 
-## 🌟 Método Michelin 3 Estrelas
+- [Mapa da Mente](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md)
+- [Protocolo mestre #DUDA](MARIA-EDUARDA/00-SISTEMA/01-DUDA-PROTOCOLO.md)
+- [Registro completo de gatilhos](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md)
 
-O método foi passado a Maria Eduarda pelo irmão dela e está adaptado ao pensamento e à biblioteca pessoal da Duda.
+## ✨ Como guardar uma descoberta
 
-- ⭐ **CONSTRUIR:** entender a intenção e produzir o primeiro resultado verificável.
-- ⭐⭐ **INTEGRAR:** aplicar o aprendizado e conectá-lo ao conhecimento existente.
-- ⭐⭐⭐ **PROVAR:** comparar o resultado com a intenção e confirmar evidência suficiente.
+Nem toda mensagem precisa virar uma nota. Quando aparecer uma descoberta, decisão, objetivo, ideia, pergunta recorrente ou progresso que tenha valor para o futuro, o ChatGPT deve:
 
-As estrelas dependem de evidência. Não há pontuação automática. O Michelin se integra ao [Kaizen](MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md) e usa os owners e o checkpoint existentes. Consulte o [protocolo completo](MARIA-EDUARDA/00-SISTEMA/08-MICHELIN-3-ESTRELAS.md).
+1. 🧠 Identificar o aprendizado relevante.
+2. 🔎 Procurar primeiro notas próximas.
+3. 📁 Encontrar o lugar principal para aquele assunto.
+4. 🔗 Explicar a conexão e o motivo para guardar.
+5. 🩷 Perguntar se você quer salvar.
+6. ✅ Registrar somente depois da sua autorização e verificar a gravação.
 
-## Kaizen e Modo Clareza
+Uma resposta negativa encerra a sugestão. A mesma proposta não deve ser repetida sem informação nova. Essa iniciativa depende de o protocolo estar disponível e de o ChatGPT conseguir consultar a biblioteca.
 
-- [Kaizen](MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md): pequenas melhorias baseadas em aprendizado real.
-- [Modo Clareza — 80%](MARIA-EDUARDA/00-SISTEMA/04-MODO-CLAREZA.md): português brasileiro, frases curtas, sequência lógica e precisão técnica.
-- [Personalizar o ChatGPT](MARIA-EDUARDA/00-SISTEMA/06-PERSONALIZAR-CHATGPT.md): instruções curtas para copiar, se desejado.
+## 🔗 Como minhas ideias se conectam
 
-## Continuidade
+Uma ideia pode complementar uma nota existente sem precisar ser copiada em vários lugares. O vínculo deve ter um motivo real, explicado com clareza.
 
-O checkpoint fica em [07-ESTADO-ATUAL.md](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md). Cada conversa é um delta, não um recomeço. Consulte o estado pertinente, reutilize o conhecimento existente e atualize o checkpoint quando houver mudança relevante.
+Use o [Mapa da Mente](MARIA-EDUARDA/00-SISTEMA/00-MAPA-DA-MENTE.md) para encontrar o assunto e o [registro de gatilhos](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md) para localizar a entrada correta.
 
-**Regra central:** uma intenção, um owner principal, relações por links, menor delta necessário. Maria Eduarda decide; o assistente organiza e conecta.
+## 🌱 Meu Kaizen
+
+Kaizen é a prática de reconhecer um aprendizado real e buscar uma pequena melhoria útil. Não é cobrança diária nem obrigação de produzir resultados.
+
+- [Kaizen — pequenas melhorias contínuas](MARIA-EDUARDA/00-SISTEMA/05-KAIZEN.md)
+
+## ⭐ Meu método Michelin 3 Estrelas
+
+O método foi passado a Maria Eduarda pelo irmão e adaptado à biblioteca pessoal da Duda.
+
+- ⭐ **CONSTRUIR:** entender a intenção e iniciar o trabalho.
+- ⭐⭐ **INTEGRAR:** aplicar o aprendizado e conectá-lo ao que já existe.
+- ⭐⭐⭐ **PROVAR:** conferir o resultado com evidência suficiente.
+
+As estrelas dependem da prova real. Não são pontuação automática.
+
+- [Protocolo Michelin completo](MARIA-EDUARDA/00-SISTEMA/08-MICHELIN-3-ESTRELAS.md)
+
+## 🪄 Meus gatilhos especiais
+
+Use os comandos como instruções de conversa. Eles não diferenciam maiúsculas de minúsculas quando empregados como gatilhos, mas não devem ser executados quando aparecem apenas em exemplos ou citações.
+
+| Gatilho | Para que serve |
+|---|---|
+| `#DUDA` | Ativa e coordena a biblioteca, identifica a intenção e procura conexões úteis. |
+| `#ACORDAR` | Recupera o último estado registrado e propõe uma retomada útil. |
+| `#CALIBRAR` | Confere arquivos, links, owners, mapa e checkpoint. |
+| `#SALVAR` | Localiza o owner e registra o conhecimento solicitado, com autorização. |
+| `#CONECTAR` | Encontra relações reais entre notas. |
+| `#KAIZEN` | Identifica aprendizado real e uma pequena melhoria. |
+| `#MICHELIN` / `!michelin` | Aplica CONSTRUIR, INTEGRAR e PROVAR. |
+| `#IDENTIDADE`, `#HISTORIA`, `#FE` | Consulta os respectivos assuntos no núcleo de Gênesis. |
+| `#SONHOS` / `#TO` | Consulta objetivos e Terapia Ocupacional. |
+| `#GENESIS`, `#BIBLIA`, `#BUSCAR`, `#MAPEAR`, `#REVISAR`, `#PROXIMO` | Navega, pesquisa, revisa ou retoma o próximo passo. |
+
+A lista completa, com aliases, owners e modos, está em [02-GATILHOS.md](MARIA-EDUARDA/00-SISTEMA/02-GATILHOS.md).
+
+## 🧭 Como continuar de onde parei
+
+O checkpoint compartilhado registra o que foi confirmado e qual é o próximo passo. Cada conversa continua o trabalho existente: não precisa começar tudo de novo.
+
+- [Estado atual e NEXT_CURSOR](MARIA-EDUARDA/00-SISTEMA/07-ESTADO-ATUAL.md)
+- [Modo Clareza — 80%](MARIA-EDUARDA/00-SISTEMA/04-MODO-CLAREZA.md)
+- [Instruções preparadas para Personalizar o ChatGPT](MARIA-EDUARDA/00-SISTEMA/06-PERSONALIZAR-CHATGPT.md)
+
+## 🌿 A arquitetura da biblioteca
+
+A árvore planeja a navegação pelos 66 livros da Bíblia protestante em nove grupos. Os grupos são categorias de navegação, não livros adicionais. Pastas e notas só devem ser criadas quando houver conteúdo real.
+
+Consulte a [Lei da Árvore Semântica](MARIA-EDUARDA/00-SISTEMA/03-LEI-DA-ARVORE.md) para as regras de endereços, organização e reutilização.
+
+**Regra central:** uma intenção, um owner principal, relações por links e o menor delta necessário. Maria Eduarda decide; o assistente organiza, conecta e propõe. Nenhuma nota pessoal é salva sem autorização.

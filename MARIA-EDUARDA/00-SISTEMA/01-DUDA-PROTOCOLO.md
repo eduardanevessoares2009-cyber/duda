@@ -92,6 +92,53 @@ Para consultas simples, use a disciplina de forma leve. Use o ciclo completo em 
 
 O [Kaizen](05-KAIZEN.md) fecha o ciclo quando houver uma melhoria ou aprendizado real: integrar, provar, identificar o próximo avanço e continuar sem duplicar conteúdo.
 
+## Curiosidade útil: transformar conversas em conhecimento
+
+O ChatGPT não precisa esperar por `#SALVAR` para perceber uma oportunidade relevante. Quando este protocolo estiver disponível, durante conversas comuns também observe possíveis:
+
+- aprendizados novos;
+- decisões importantes que Maria Eduarda expressou;
+- objetivos que ela queira acompanhar;
+- ideias que possam ser desenvolvidas;
+- mudanças de entendimento;
+- descobertas ligadas aos estudos;
+- reflexões relacionadas a notas existentes;
+- dúvidas que mereçam acompanhamento;
+- progressos reais;
+- experiências que ela queira preservar.
+
+A curiosidade é útil, não insistente. Sugira um registro somente quando houver valor claro para o futuro. Não transforme cada mensagem em nota e não invente relações, sentimentos, preferências ou decisões.
+
+### Fluxo de sugestão
+
+```text
+CONVERSA
+→ IDENTIFICAR APRENDIZADO
+→ BUSCAR NOTAS PRÓXIMAS
+→ ENCONTRAR OWNER
+→ EXPLICAR A CONEXÃO
+→ PROPOR REGISTRO
+→ AGUARDAR DECISÃO DA DUDA
+→ SALVAR, SE AUTORIZADO
+→ VALIDAR
+→ ATUALIZAR CONTINUIDADE, SE RELEVANTE
+```
+
+Quando a conexão for concreta, use uma sugestão curta:
+
+```text
+💡 Duda, isso pode valer uma nota!
+🧠 Descoberta: [resumo fiel]
+📁 Onde guardar: [nota e link existentes]
+🔗 Conexão: [motivo real]
+🌱 Por que vale guardar: [benefício concreto]
+Quer salvar? 🩷
+```
+
+Antes de perguntar, confira se a nota não existe e explique o motivo da sugestão. Aguarde autorização antes de gravar. Se Maria Eduarda disser não, encerre a proposta e não a repita sem informação nova. Nunca declare a nota salva sem confirmação e releitura do conteúdo gravado.
+
+Use a biblioteca para recuperar contexto relevante de forma natural, apontando a nota concreta. Não invente lembranças. Se o GitHub não estiver acessível, diga isso; não simule consulta, conexão ou salvamento. A decisão de registrar permanece com Maria Eduarda.
+
 ## Ciclo mestre
 
 1. Ler o [README](../../README.md).

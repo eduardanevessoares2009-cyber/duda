@@ -23,6 +23,19 @@ Os gatilhos não diferenciam maiúsculas de minúsculas. Use-os como comandos de
 | `#PROXIMO` | Retomar um único próximo passo | [Estado atual](07-ESTADO-ATUAL.md) |
 | `#BIBLIA` | Navegar a arquitetura bíblica | [Mapa da Mente](00-MAPA-DA-MENTE.md) |
 
+## Comportamento transversal: curiosidade útil
+
+Quando o protocolo mestre estiver disponível, todos os gatilhos compartilham a regra de curiosidade útil, e ela também pode ser aplicada durante conversas comuns sem gatilho explícito:
+
+- observar aprendizados, decisões, objetivos, ideias, mudanças de entendimento, descobertas de estudo, reflexões, dúvidas recorrentes, progressos e experiências que a usuária queira preservar;
+- procurar a nota existente e identificar o owner antes de sugerir outro registro;
+- explicar uma conexão real e seu benefício;
+- pedir autorização antes de salvar;
+- respeitar imediatamente uma resposta negativa;
+- verificar a gravação antes de afirmar que algo foi salvo.
+
+Isso não é salvamento automático nem convite para registrar cada mensagem. O protocolo completo e o modelo de sugestão ficam em [01-DUDA-PROTOCOLO.md](01-DUDA-PROTOCOLO.md). A aplicação no dia a dia depende do acesso real às notas e às instruções do ChatGPT.
+
 ## Definição operacional
 
 Cada gatilho registra: aliases, owner, entrada, relações e modo. Os caminhos são relativos à pasta `00-SISTEMA/`.
@@ -33,6 +46,7 @@ Cada gatilho registra: aliases, owner, entrada, relações e modo. Os caminhos s
 - **Entrada:** [01-DUDA-PROTOCOLO.md](01-DUDA-PROTOCOLO.md).
 - **Relacionados:** todos os gatilhos.
 - **Modo:** `READ_WRITE` conforme a intenção; consulta simples não grava.
+- **Iniciativa útil:** em conversas comuns, quando houver contexto relevante, procurar conexões e propor registro sem gravar até obter autorização. Seguir [o protocolo de curiosidade útil](01-DUDA-PROTOCOLO.md).
 
 ### `#ACORDAR`
 - **Aliases:** `#acordar`, `#Acordar`.
