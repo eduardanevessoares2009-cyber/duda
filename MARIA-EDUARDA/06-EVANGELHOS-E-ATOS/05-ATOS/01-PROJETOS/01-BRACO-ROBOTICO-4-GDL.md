@@ -8,7 +8,7 @@ hash_conteudo: "fnv1a64-utf8:d36567c65d66f84d"
 rastro:
   origem: "conversa de desenvolvimento do projeto e requisito escolar informado pela usuária; vídeo de referência do IFSP"
   base_anterior: "6d195292b697302835f2d52117f0266c28cf1eb7"
-  validacao: "Conteúdo sintetizado a partir das informações fornecidas; gravação e releitura serão verificadas separadamente."
+  validacao: "Conteúdo, links e destino da nota do projeto conferidos após a gravação."
   alteracao: "Registro canônico do protótipo Tinkercad, sensor, estimativa de volume e base futura para braço robótico 4 GDL."
 grupo_notas: "EVANGELHOS-E-ATOS/ATOS/PROJETOS"
 relacionado_a:
