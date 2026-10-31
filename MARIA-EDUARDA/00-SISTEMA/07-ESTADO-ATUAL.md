@@ -1,14 +1,14 @@
 ---
 data_criacao: "2026-10-28T17:03:37-03:00"
-ultima_atualizacao: "2026-10-28T18:04:22-03:00"
-ultima_modificacao: "2026-10-28T18:03:30-03:00"
-ultima_verificacao: "2026-10-28T18:04:22-03:00"
+ultima_atualizacao: "2026-10-31T09:07:00-03:00"
+ultima_modificacao: "2026-10-31T09:07:00-03:00"
+ultima_verificacao: "2026-10-31T09:07:00-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:263d7569ee239924"
+hash_conteudo: "fnv1a64-utf8:90f8b2059149b0f4"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
+  validacao: "Conteúdo e links atualizados; releitura posterior será registrada no checkpoint."
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
 grupo_notas: "SISTEMA"
 relacionado_a:
@@ -25,8 +25,10 @@ relacionado_a:
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md"
   - "README.md"
+  - "MARIA-EDUARDA/06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md"
 estado_evidencia: "PASS"
 ---
+
 
 # ESTADO ATUAL — DUDA
 
@@ -34,7 +36,7 @@ estado_evidencia: "PASS"
 🔎 **Última conferência:** 28/10/2026
 
 ## CURRENT
-O núcleo está na branch `main`. A missão de dar vida à biblioteca foi integrada aos arquivos existentes. A biblioteca tem uma apresentação mais acolhedora e uma regra de curiosidade útil: identificar oportunidades relevantes de registrar conhecimento, localizar a nota existente, explicar uma conexão concreta e pedir autorização antes de salvar.
+O núcleo está na branch `main`. A biblioteca tem uma regra de curiosidade útil. Em 31/10/2026, foi registrado o projeto de braço robótico articulado no Tinkercad, com base futura para um controlador de 4 GDL. A nota principal está em [Braço robótico — Tinkercad e 4 GDL](../06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md).
 
 ## ÚLTIMO CONTEXTO
 - `#DUDA` coordena a intenção e procura conexões úteis.
@@ -42,6 +44,7 @@ O núcleo está na branch `main`. A missão de dar vida à biblioteca foi integr
 - `#CALIBRAR` verifica a estrutura real, owners, links e checkpoint.
 - `#MICHELIN` usa CONSTRUIR, INTEGRAR e PROVAR com evidências.
 - `#KAIZEN` reconhece melhorias pequenas e aprendizados reais.
+- Projeto ativo de estudo: [braço robótico articulado — Tinkercad e 4 GDL](../06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md).
 - A curiosidade útil também pode ser aplicada durante conversas comuns, quando o protocolo e o acesso às notas estiverem disponíveis.
 - Nenhuma nota pode ser gravada por sugestão automática. A decisão de salvar continua com Maria Eduarda.
 
@@ -55,6 +58,7 @@ O núcleo está na branch `main`. A missão de dar vida à biblioteca foi integr
 - [Personalizar ChatGPT](06-PERSONALIZAR-CHATGPT.md)
 - [Michelin 3 Estrelas](08-MICHELIN-3-ESTRELAS.md)
 - [Gênesis](../01-PENTATEUCO/01-GENESIS/00-MAPA.md)
+- [Braço robótico — Tinkercad e 4 GDL](../06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md)
 - [Identidade](../01-PENTATEUCO/01-GENESIS/01-MINHA-IDENTIDADE/Quem-sou-eu.md)
 - [História](../01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md)
 - [Fé](../01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md)
@@ -99,3 +103,12 @@ Na etapa seguinte, copiar o texto de [06-PERSONALIZAR-CHATGPT.md](06-PERSONALIZA
 ## Revisão solicitada — linguagem humana e relações
 
 A comunicação cotidiana não deve usar relatórios técnicos. Toda mudança futura em nota deve verificar suas relações relevantes primeiro. O funcionamento real em conversa nova continua sem teste até confirmação. Preservar o único checkpoint.
+
+## Registro de continuidade — projeto de robótica
+
+Em 31/10/2026, foi criada e relida a nota canônica do projeto [Braço robótico articulado — Tinkercad e 4 GDL](../06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md). Ela reúne o requisito escolar, vídeo de referência, Arduino Uno, HC-SR04 instalado na parte frontal da base, pinos propostos, sequência de coleta/transporte/entrega e estimativa cilíndrica de 39,53 L (não é o volume exato alcançável).
+
+A distinção técnica foi registrada: quatro servos ligados a base, ombro, cotovelo e garra não comprovam quatro graus de liberdade de posicionamento. O próximo passo é definir os quatro eixos mecânicos e decidir se a garra terá um servo independente. Simulação completa, calibração e controle final ainda não foram comprovados.
+
+## NEXT_CURSOR
+Definir o desenho mecânico do braço de 4 GDL, identificar os quatro eixos independentes, localizar os servos e decidir se o acionamento da garra será separado. Depois, registrar dimensões reais, limites angulares e tabela de posições antes de desenvolver o código definitivo.
