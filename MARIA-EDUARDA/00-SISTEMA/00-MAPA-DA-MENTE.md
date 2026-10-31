@@ -4,11 +4,11 @@ ultima_atualizacao: "2026-10-31T09:07:00-03:00"
 ultima_modificacao: "2026-10-31T09:07:00-03:00"
 ultima_verificacao: "2026-10-31T09:07:00-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:a2feab9311c7f226"
+hash_conteudo: "fnv1a64-utf8:b481045722bf1a9a"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Conteúdo, links e destino da nota do projeto conferidos após a gravação."
+  validacao: "Mapa relido; caminho do projeto integrado à árvore de Atos e hash do corpo Markdown recalculado."
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
   caminho_de_origem: "MARIA-EDUARDA/00-MAPA-DA-MENTE.md"
 grupo_notas: "SISTEMA"
@@ -141,6 +141,8 @@ MARIA-EDUARDA/
 │   ├── 03-LUCAS/
 │   ├── 04-JOAO/
 │   └── 05-ATOS/
+│       └── 01-PROJETOS/
+│           └── 01-BRACO-ROBOTICO-4-GDL.md
 │       └── 01-PROJETOS/
 │           └── 01-BRACO-ROBOTICO-4-GDL.md
 ├── 07-CARTAS-PAULINAS/
