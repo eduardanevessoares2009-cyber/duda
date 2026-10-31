@@ -4,11 +4,11 @@ ultima_atualizacao: "2026-10-31T09:07:00-03:00"
 ultima_modificacao: "2026-10-31T09:07:00-03:00"
 ultima_verificacao: "2026-10-31T09:07:00-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:13c3d7726f215f9c"
+hash_conteudo: "fnv1a64-utf8:b9ddf8ef6ca50ed2"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Conteúdo e links atualizados; releitura posterior será registrada no checkpoint."
+  validacao: "Conteúdo, links e destino da nota do projeto conferidos após a gravação."
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
   caminho_de_origem: "MARIA-EDUARDA/00-MAPA-DA-MENTE.md"
 grupo_notas: "SISTEMA"
@@ -32,9 +32,10 @@ estado_evidencia: "PASS"
 ---
 
 
+
 # 🌱 Mapa da Mente — Maria Eduarda
 
-📅 **Criada em:** 28/10/2026 · ✏️ **Última atualização:** 28/10/2026
+📅 **Criada em:** 28/10/2026 · ✏️ **Última atualização:** 31/10/2026
 🔎 **Última conferência:** 28/10/2026
 
 Esta biblioteca organiza conhecimento, estudos, experiências e planos usando uma árvore semântica. A arquitetura bíblica é uma **referência para navegação e memória pessoal**. Ela não altera nem substitui o significado religioso dos livros.
