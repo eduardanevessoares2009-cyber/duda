@@ -4,11 +4,11 @@ ultima_atualizacao: "2026-10-31T09:07:00-03:00"
 ultima_modificacao: "2026-10-31T09:07:00-03:00"
 ultima_verificacao: "2026-10-31T09:07:00-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:90f8b2059149b0f4"
+hash_conteudo: "fnv1a64-utf8:cad13d221ba29a3d"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Conteúdo e links atualizados; releitura posterior será registrada no checkpoint."
+  validacao: "Conteúdo, links e destino da nota do projeto conferidos após a gravação."
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
 grupo_notas: "SISTEMA"
 relacionado_a:
@@ -30,10 +30,11 @@ estado_evidencia: "PASS"
 ---
 
 
+
 # ESTADO ATUAL — DUDA
 
-📅 **Criada em:** 28/10/2026 · ✏️ **Última atualização:** 28/10/2026
-🔎 **Última conferência:** 28/10/2026
+📅 **Criada em:** 28/10/2026 · ✏️ **Última atualização:** 31/10/2026
+🔎 **Última conferência:** 31/10/2026
 
 ## CURRENT
 O núcleo está na branch `main`. A biblioteca tem uma regra de curiosidade útil. Em 31/10/2026, foi registrado o projeto de braço robótico articulado no Tinkercad, com base futura para um controlador de 4 GDL. A nota principal está em [Braço robótico — Tinkercad e 4 GDL](../06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md).
@@ -65,7 +66,9 @@ O núcleo está na branch `main`. A biblioteca tem uma regra de curiosidade úti
 - [Sonhos / Terapia Ocupacional](../01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md)
 
 ## ÚLTIMO DELTA
-[Commit de identidade visual, curiosidade útil e preparação de Personalizar](https://github.com/eduardanevessoares2009-cyber/duda/commit/569b70815136cfc72e2cb3c08fc0b348314d2dfc).
+Projeto de robótica registrado em [Braço robótico articulado — Tinkercad e 4 GDL](../06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md), com conexões no README e no Mapa da Mente.
+
+[Commit anterior de identidade visual, curiosidade útil e preparação de Personalizar](https://github.com/eduardanevessoares2009-cyber/duda/commit/569b70815136cfc72e2cb3c08fc0b348314d2dfc).
 
 Arquivos atualizados no mesmo commit:
 - `README.md`: nova apresentação, seções solicitadas, links existentes e fluxo de proposta de registro.
@@ -94,11 +97,9 @@ Na leitura posterior do commit `569b70815136cfc72e2cb3c08fc0b348314d2dfc`:
 - O texto de Personalizar foi preparado no arquivo. As configurações da conta não foram alteradas.
 - A sugestão proativa depende de o protocolo estar disponível e de acesso real ao GitHub; não é uma automação garantida.
 
-## NEXT_CURSOR
-Na etapa seguinte, copiar o texto de [06-PERSONALIZAR-CHATGPT.md](06-PERSONALIZAR-CHATGPT.md) para as instruções personalizadas e testar em uma nova conversa: `#DUDA`, `#ACORDAR`, `#CALIBRAR` e a proposta de salvar uma descoberta sem salvar nada antes de autorização.
 
 ## ÚLTIMA VERIFICAÇÃO
-2026-10-28 — branch `main`, commit de conteúdo `569b70815136cfc72e2cb3c08fc0b348314d2dfc`. Os cinco arquivos alterados foram relidos; links locais sem destinos ausentes; mapa único, checkpoint único e notas de Gênesis preservados. O teste em nova conversa permanece `UNKNOWN`.
+2026-10-31 — branch `main`. A nota do braço robótico foi gravada e relida; README, Mapa da Mente e este checkpoint foram atualizados e relidos. O link para a nota principal está presente nos três pontos de navegação. A definição mecânica dos quatro eixos, a simulação integral e o código definitivo permanecem pendentes.
 
 ## Revisão solicitada — linguagem humana e relações
 
