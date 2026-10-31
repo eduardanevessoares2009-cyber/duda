@@ -1,14 +1,14 @@
 ---
 data_criacao: "2026-10-28T16:42:17-03:00"
-ultima_atualizacao: "2026-10-28T18:04:22-03:00"
-ultima_modificacao: "2026-10-28T18:03:30-03:00"
-ultima_verificacao: "2026-10-28T18:04:22-03:00"
+ultima_atualizacao: "2026-10-31T09:07:00-03:00"
+ultima_modificacao: "2026-10-31T09:07:00-03:00"
+ultima_verificacao: "2026-10-31T09:07:00-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:27e1e16194409ace"
+hash_conteudo: "fnv1a64-utf8:13c3d7726f215f9c"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
+  validacao: "Conteúdo e links atualizados; releitura posterior será registrada no checkpoint."
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
   caminho_de_origem: "MARIA-EDUARDA/00-MAPA-DA-MENTE.md"
 grupo_notas: "SISTEMA"
@@ -27,8 +27,10 @@ relacionado_a:
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md"
   - "README.md"
+  - "MARIA-EDUARDA/06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md"
 estado_evidencia: "PASS"
 ---
+
 
 # 🌱 Mapa da Mente — Maria Eduarda
 
@@ -203,3 +205,7 @@ Este é o primeiro núcleo ativo da biblioteca. Os demais caminhos do plano ser�
 Antes de criar uma nota, procure uma página existente para o mesmo assunto. Se a informação já tiver um endereço principal, atualize essa página e adicione links para assuntos relacionados. Use `00` para mapas quando forem úteis. Não mova nem renumere arquivos sem revisar os links que apontam para eles.
 
 > **Privacidade:** o repositório está público. Registre somente o que Maria Eduarda deseja compartilhar e não inclua senhas, documentos, endereços, dados de pacientes ou informações íntimas.
+
+## Projetos e experiências — Atos
+
+- [Braço robótico articulado — Tinkercad e base para 4 GDL](../06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md): projeto escolar de robótica, programação Arduino, sensor de presença, servomotores, geometria e cinemática.
