@@ -8,7 +8,7 @@ hash_conteudo: "fnv1a64-utf8:661189f4ccab7916"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Conteúdo, links e destino da nota do projeto conferidos após a gravação."
+  validacao: "README relido; link do projeto conferido e hash do corpo Markdown recalculado."
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
 grupo_notas: "ENTRADA"
 relacionado_a:
