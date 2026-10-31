@@ -4,11 +4,11 @@ ultima_atualizacao: "2026-10-31T09:07:00-03:00"
 ultima_modificacao: "2026-10-31T09:07:00-03:00"
 ultima_verificacao: "2026-10-31T09:07:00-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:d36567c65d66f84d"
+hash_conteudo: "fnv1a64-utf8:c8af4d5b95b4c01e"
 rastro:
   origem: "conversa de desenvolvimento do projeto e requisito escolar informado pela usuária; vídeo de referência do IFSP"
   base_anterior: "6d195292b697302835f2d52117f0266c28cf1eb7"
-  validacao: "Nota relida após a gravação; hash do corpo Markdown recalculado."
+  validacao: "Código de demonstração incluído; nota relida e integridade do corpo conferida após gravação."
   alteracao: "Registro canônico do protótipo Tinkercad, sensor, estimativa de volume e base futura para braço robótico 4 GDL."
 grupo_notas: "EVANGELHOS-E-ATOS/ATOS/PROJETOS"
 relacionado_a:
@@ -86,6 +86,102 @@ Compartilhar o GND entre Arduino, sensor e alimentação dos servos. Em montagem
 9. O programa aguarda o objeto sair da área de detecção antes de aceitar outro ciclo.
 
 O código apresentado anteriormente usa posições angulares fixas e tempos de espera. Esses ângulos são apenas valores iniciais de simulação e precisam ser calibrados para a geometria real. A espera até o objeto sair da zona do sensor também é uma limitação: a lógica futura deverá evitar disparos repetidos e considerar a posição do objeto durante o transporte.
+
+## Código atual de demonstração para Tinkercad
+
+Este é o exemplo de partida para o circuito com HC-SR04 e quatro servos. Ele usa ângulos fixos, não cinemática inversa, e precisa ser ajustado à montagem real.
+
+```cpp
+#include <Servo.h>
+
+Servo base;
+Servo ombro;
+Servo cotovelo;
+Servo garra;
+
+const int TRIG = 2;
+const int ECHO = 3;
+const int DISTANCIA_DETECCAO = 10;
+
+long duracao;
+float distancia;
+
+void mover(int b, int o, int c, int g) {
+  base.write(b);
+  ombro.write(o);
+  cotovelo.write(c);
+  garra.write(g);
+  delay(700);
+}
+
+float medirDistancia() {
+  digitalWrite(TRIG, LOW);
+  delayMicroseconds(2);
+  digitalWrite(TRIG, HIGH);
+  delayMicroseconds(10);
+  digitalWrite(TRIG, LOW);
+
+  duracao = pulseIn(ECHO, HIGH, 30000);
+  if (duracao == 0) return 999;
+
+  return duracao * 0.0343 / 2.0;
+}
+
+void posicaoInicial() {
+  mover(90, 90, 90, 70);
+}
+
+void pegarObjeto() {
+  mover(45, 110, 70, 70);
+  mover(45, 125, 55, 70);
+  mover(45, 125, 55, 110);
+  mover(45, 90, 85, 110);
+}
+
+void transportarObjeto() {
+  mover(135, 90, 85, 110);
+  mover(135, 120, 60, 110);
+  mover(135, 120, 60, 70);
+  mover(135, 90, 85, 70);
+}
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(TRIG, OUTPUT);
+  pinMode(ECHO, INPUT);
+
+  base.attach(9);
+  ombro.attach(10);
+  cotovelo.attach(11);
+  garra.attach(6);
+
+  posicaoInicial();
+}
+
+void loop() {
+  distancia = medirDistancia();
+
+  Serial.print("Distancia: ");
+  Serial.print(distancia);
+  Serial.println(" cm");
+
+  if (distancia <= DISTANCIA_DETECCAO) {
+    delay(200);
+
+    if (medirDistancia() <= DISTANCIA_DETECCAO) {
+      pegarObjeto();
+      transportarObjeto();
+      posicaoInicial();
+
+      while (medirDistancia() <= DISTANCIA_DETECCAO) {
+        delay(100);
+      }
+    }
+  }
+
+  delay(100);
+}
+```
 
 ## Atenção: definição correta dos 4 graus de liberdade
 
