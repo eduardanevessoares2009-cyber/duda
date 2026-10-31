@@ -4,11 +4,11 @@ ultima_atualizacao: "2026-10-31T09:07:00-03:00"
 ultima_modificacao: "2026-10-31T09:07:00-03:00"
 ultima_verificacao: "2026-10-31T09:07:00-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:cad13d221ba29a3d"
+hash_conteudo: "fnv1a64-utf8:fc8bf45c3786b3ed"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Conteúdo, links e destino da nota do projeto conferidos após a gravação."
+  validacao: "Checkpoint relido; nota, índice e README conferidos após a gravação."
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
 grupo_notas: "SISTEMA"
 relacionado_a:
@@ -28,8 +28,6 @@ relacionado_a:
   - "MARIA-EDUARDA/06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md"
 estado_evidencia: "PASS"
 ---
-
-
 
 # ESTADO ATUAL — DUDA
 
