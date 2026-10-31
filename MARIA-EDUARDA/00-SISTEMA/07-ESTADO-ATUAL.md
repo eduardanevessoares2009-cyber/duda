@@ -4,11 +4,11 @@ ultima_atualizacao: "2026-10-31T09:07:00-03:00"
 ultima_modificacao: "2026-10-31T09:07:00-03:00"
 ultima_verificacao: "2026-10-31T09:07:00-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:fc8bf45c3786b3ed"
+hash_conteudo: "fnv1a64-utf8:5661f391e1a4c446"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Checkpoint relido; nota, índice e README conferidos após a gravação."
+  validacao: "Checkpoint atualizado e relido; nota principal, código de demonstração, README e mapa conferidos."
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
 grupo_notas: "SISTEMA"
 relacionado_a:
@@ -105,7 +105,7 @@ A comunicação cotidiana não deve usar relatórios técnicos. Toda mudança fu
 
 ## Registro de continuidade — projeto de robótica
 
-Em 31/10/2026, foi criada e relida a nota canônica do projeto [Braço robótico articulado — Tinkercad e 4 GDL](../06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md). Ela reúne o requisito escolar, vídeo de referência, Arduino Uno, HC-SR04 instalado na parte frontal da base, pinos propostos, sequência de coleta/transporte/entrega e estimativa cilíndrica de 39,53 L (não é o volume exato alcançável).
+Em 31/10/2026, foi criada e relida a nota canônica do projeto [Braço robótico articulado — Tinkercad e 4 GDL](../06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md). Ela reúne o requisito escolar, vídeo de referência, Arduino Uno, HC-SR04 instalado na parte frontal da base, pinos propostos, código Arduino de demonstração, sequência de coleta/transporte/entrega e estimativa cilíndrica de 39,53 L (não é o volume exato alcançável).
 
 A distinção técnica foi registrada: quatro servos ligados a base, ombro, cotovelo e garra não comprovam quatro graus de liberdade de posicionamento. O próximo passo é definir os quatro eixos mecânicos e decidir se a garra terá um servo independente. Simulação completa, calibração e controle final ainda não foram comprovados.
 
