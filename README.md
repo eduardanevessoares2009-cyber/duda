@@ -1,14 +1,14 @@
 ---
 data_criacao: "2026-10-28T16:38:39-03:00"
-ultima_atualizacao: "2026-10-28T18:04:22-03:00"
-ultima_modificacao: "2026-10-28T18:03:30-03:00"
-ultima_verificacao: "2026-10-28T18:04:22-03:00"
+ultima_atualizacao: "2026-10-31T09:07:00-03:00"
+ultima_modificacao: "2026-10-31T09:07:00-03:00"
+ultima_verificacao: "2026-10-31T09:07:00-03:00"
 fuso_horario: "America/Bahia"
-hash_conteudo: "fnv1a64-utf8:95e855a86e06e8b0"
+hash_conteudo: "fnv1a64-utf8:09c24365615cefe4"
 rastro:
   origem: "historico de commits GitHub"
   base_anterior: "4d247d8bca4ee32ddad43dfa924b236de3cb414e"
-  validacao: "Conteudo, campos, hash e estrutura conferidos no commit 34c8a3b0f12714524743651bfea699f824ae5726"
+  validacao: "Conteúdo e links atualizados; releitura posterior será registrada no checkpoint."
   alteracao: "Inclusão de propriedades completas e datas visíveis em 2026-10-28"
 grupo_notas: "ENTRADA"
 relacionado_a:
@@ -20,8 +20,10 @@ relacionado_a:
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/02-MINHA-HISTORIA/Como-tudo-comecou.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/03-MINHA-FE/Meus-principios.md"
   - "MARIA-EDUARDA/01-PENTATEUCO/01-GENESIS/04-MEUS-SONHOS/Terapia-Ocupacional.md"
+  - "MARIA-EDUARDA/06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md"
 estado_evidencia: "PASS"
 ---
+
 
 # 🌷✨ Oi, Duda! Esse espaço é todo seu!
 
@@ -77,3 +79,7 @@ Também posso usar palavras ligadas à identidade, história, fé e sonhos. Mai�
 Não é competição nem obrigação de ser perfeita.
 
 **🌷 Não preciso lembrar de tudo sozinha. Posso voltar às minhas descobertas quando quiser.**
+
+## 🤖 Projeto de robótica
+
+- [Braço robótico articulado — Tinkercad e base para 4 GDL](MARIA-EDUARDA/06-EVANGELHOS-E-ATOS/05-ATOS/01-PROJETOS/01-BRACO-ROBOTICO-4-GDL.md): protótipo com Arduino Uno, sensor ultrassônico, servomotores, sequência de coleta e entrega, estimativa de volume de trabalho e próximos passos para o controle de quatro graus de liberdade.
